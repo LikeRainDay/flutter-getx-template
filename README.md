@@ -4,10 +4,10 @@
 
 Language: 中文简体 
 
-<code>![visitors](https://visitor-badge.glitch.me/badge?page_id=HellaCloud.flutter-getx-template)</code>
+<code>![visitors](https://visitor-badge.glitch.me/badge?page_id=LikeRainDay.flutter-getx-template)</code>
 <code>![null safety](https://img.shields.io/badge/null-safety-blue)</code>
-<code>![flutter version](https://img.shields.io/badge/flutter-3.x-blue)</code>
-<code>![getx version](https://img.shields.io/badge/getx-4.x-blue)</code>
+<code>![flutter version](https://img.shields.io/badge/flutter-3.3-blue)</code>
+<code>![getx version](https://img.shields.io/badge/getx-4.6-blue)</code>
 
 
 基于[`getx`](https://github.com/jonataslaw/getx) 实现的全新`flutter getx` 模版，适用于中大型项目的开发。
@@ -29,8 +29,6 @@ Tools • Dart 2.18.0 • DevTools 2.15.0
 
 
 ### lib目录划分
-
-
 
 - `common`
   
@@ -485,15 +483,6 @@ print(Get.arguments);
 ```
 
 使用 `getx` 的路由它有一个非常好的优点，那就是它是`去context化`的。还记得我们以前被`context` 支配的恐惧吗？ 有了`getx`，它将不复存在。
-
-### vscode 插件
-
-`monia` 还提供了`vscode` 插件: [monia-vscode-extension](https://marketplace.visualstudio.com/items?itemName=xieyezi.monia-getx-template)
-
-点击左下角的`monia-generate` 文字按钮，输入`pageName`，即可在`pages`目录下新建一个`flutter getx page`：
-
-![example.gif](https://i.loli.net/2021/06/05/rmyXNpOPCLISMu4.gif)
-
 
 ### 官方链接
 
